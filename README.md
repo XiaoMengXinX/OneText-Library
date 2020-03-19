@@ -1,9 +1,15 @@
 # OneText-Library (Unofficial)
-### 抓自[Hitokoto](https://hitokoto.cn/) 并合并格式的[一言](https://github.com/lz233/OneText_For_Android) 句子库 
+### 抓自[Hitokoto](https://hitokoto.cn/)并合并格式的[一言](https://coolapk.com/apk/com.lz233.onetext)句子库 
+
+[https://raw.githubusercontent.com/xbl233/OneText-Library/master/all.json](https://raw.githubusercontent.com/xbl233/OneText-Library/master/april.json)
 
 Hitokoto APi 地址: [Click me](https://v1.hitokoto.cn/)
 
 ### 摘自四月是你的谎言中的经典语录 (April.json)
+
+[https://raw.githubusercontent.com/xbl233/OneText-Library/master/april.json](https://raw.githubusercontent.com/xbl233/OneText-Library/master/april.json)
+
+**将以上链接直接复制并添加至[一言](https://coolapk.com/apk/com.lz233.onetext)的网络源，刷新即可使用**
 
 ## 格式说明
 ```json
