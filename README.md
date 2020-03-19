@@ -5,7 +5,7 @@
 
 Hitokoto APi 地址: [Click me](https://v1.hitokoto.cn/)
 
-### 摘自四月是你的谎言中的经典语录 (April.json)
+### 摘自《四月是你的谎言》中的经典语录 (April.json)
 
 [https://raw.githubusercontent.com/xbl233/OneText-Library/master/april.json](https://raw.githubusercontent.com/xbl233/OneText-Library/master/april.json)
 
