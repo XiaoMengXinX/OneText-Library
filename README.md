@@ -1,7 +1,7 @@
 # OneText-Library (Unofficial)
 ### 抓自[Hitokoto](https://hitokoto.cn/)并合并格式的[一言](https://coolapk.com/apk/com.lz233.onetext)句子库 （all.json）
 
-[https://raw.githubusercontent.com/xbl233/OneText-Library/master/all.json](https://raw.githubusercontent.com/xbl233/OneText-Library/master/april.json)
+[https://raw.githubusercontent.com/xbl233/OneText-Library/master/all.json](https://raw.githubusercontent.com/xbl233/OneText-Library/master/all.json)
 
 Hitokoto APi 地址: [Click me](https://v1.hitokoto.cn/)
 
