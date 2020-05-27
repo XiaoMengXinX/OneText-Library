@@ -20,3 +20,5 @@ Hitokoto APi 地址: [Click me](https://v1.hitokoto.cn/)
   "time":["这里是句子被收集的时间","这里是句子被创作的时间"]
 }
 ```
+
+## 嘤嘤嘤
