@@ -1,5 +1,5 @@
 # OneText-Library (Unofficial)
-### 转换自Hitokoto 开源社区官方提供[语句库](https://github.com/hitokoto-osc/sentences-bundle/)的[一言](https://coolapk.com/apk/com.lz233.onetext)句子库 （all.json）
+### 转换自Hitokoto 开源社区官方[语句库](https://github.com/hitokoto-osc/sentences-bundle/)的[一言](https://coolapk.com/apk/com.lz233.onetext)句子库 （all.json）
 
 [https://raw.githubusercontent.com/XiaoMengXinX/OneText-Library/master/all.json](https://raw.githubusercontent.com/xbl233/OneText-Library/master/all.json)
 
